@@ -3,15 +3,13 @@
 ### I'm a programmer from Peru! I've done projects of various types, such as:
 
 - Discord bots 🤖
-- Minecraft SpigotMC plugins 🔌
-- Games with Unity and GameMaker Studio 🎮
-- Simple web apps using Express.js 📡
+- Minecraft server plugins 🔌
+- Express.js web servers 📡
+- Web applications with React.js ⚛️
 
-Also, currently learning React.js ⚛️!
+### Also, I have experience with the following languages 👨‍💻:
 
-### Also, I have experience with the following languages 👨‍💻: 
 - Java
-- JavaScript/TypeScript
-- C#
+- JavaScript / TypeScript
 - HTML
 - CSS
