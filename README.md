@@ -1,15 +1,12 @@
-#### Hello there 👋! ElCholoGamer here.
+#### Hello there, ElCholoGamer here.
 
-### I'm a programmer from Peru! I've done projects of various types, such as:
+I code decent Discord bots, and I'm practicing web apps using the MERN stack.
 
-- Discord bots 🤖
-- Minecraft server plugins 🔌
-- Express.js web servers 📡
-- Web applications with React.js ⚛️
+My preferred languages are (in order):
+1. TypeScript
+2. JavaScript
+3. Java
+4. (Maybe Python? Idk lmao)
 
-### Also, I have experience with the following languages 👨‍💻:
+Also I make some Minecraft plugins, check [this one](https://www.spigotmc.org/resources/userlogin.80669/) out!
 
-- Java
-- JavaScript / TypeScript
-- HTML
-- CSS
