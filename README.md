@@ -5,18 +5,17 @@
 ![Procrastinating](https://img.shields.io/badge/Procrastinating-always-red)
 
 I code decent Discord bots, and I'm practicing web apps using the MERN stack. Big React fan too.
+Also making some Minecraft plugins every now and then, check [this one][userlogin] out!
 
-<br />
+---
 
 ## Technologies
 
 ![JavaScript][javascript] ![TypeScript][typescript] ![Java][java] ![Node.js][node] ![React][react]
 
-<br />
-
-I also make some Minecraft plugins every now and then, check [this one][userlogin] out!
-
 ---
+
+## GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElCholoGamer&theme=tokyonight)
 
