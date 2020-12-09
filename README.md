@@ -7,13 +7,9 @@
 I code decent Discord bots, and I'm practicing web apps using the MERN stack. Big React fan too.
 Also making some Minecraft plugins every now and then, check [this one][userlogin] out!
 
----
-
 ## Technologies
 
 ![JavaScript][javascript] ![TypeScript][typescript] ![Java][java] ![Node.js][node] ![React][react]
-
----
 
 ## GitHub stats
 
