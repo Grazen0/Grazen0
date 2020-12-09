@@ -2,8 +2,6 @@
 
 ##### (Don't mind the name lmao)
 
----
-
 ![Epicness](https://img.shields.io/badge/Epicness-69%25-brightgreen)
 ![React](https://img.shields.io/badge/React-good-blue)
 ![Procrastinating](https://img.shields.io/badge/Procrastinating-always-red)
