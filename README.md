@@ -1,22 +1,20 @@
-## Hello there, ElCholoGamer here.
-
-##### (Don't mind the name lmao)
+# Hello there
 
 ![Epicness](https://img.shields.io/badge/Epicness-69%25-brightgreen)
 ![React](https://img.shields.io/badge/React-good-blue)
 ![Procrastinating](https://img.shields.io/badge/Procrastinating-always-red)
 
+I code decent Discord bots, and I'm practicing web apps using the MERN stack. Big React fan too.
+
 <br />
 
-I code decent Discord bots, and I'm practicing web apps using the MERN stack. Also, big React fan.
-
-### Technologies
+## Technologies
 
 ![JavaScript][javascript] ![TypeScript][typescript] ![Java][java] ![Node.js][node] ![React][react]
 
 <br />
 
-Also I make some Minecraft plugins, check [this one][userlogin] out!
+I also make some Minecraft plugins every now and then, check [this one][userlogin] out!
 
 ---
 
