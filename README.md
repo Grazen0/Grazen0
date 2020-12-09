@@ -21,3 +21,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 [java]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/java.png
 [node]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/node.png
 [react]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/react.png
+
+## Latest activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
