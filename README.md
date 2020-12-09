@@ -25,5 +25,3 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 ## Latest activity
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
