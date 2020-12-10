@@ -9,7 +9,15 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 ## Technologies
 
-![JavaScript][javascript] ![TypeScript][typescript] ![Java][java] ![Node.js][node] ![React][react]
+![JavaScript][javascript]
+![TypeScript][typescript]
+![Node.js][node]
+![Webpack][webpack]
+![React][react]
+![HTML][html]
+![Java][java]
+![MongoDB][mongodb]
+![Git][git]
 
 ## GitHub stats
 
@@ -21,10 +29,15 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 [java]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/java.png
 [node]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/node.png
 [react]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/react.png
+[webpack]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/webpack.png
+[html]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/html.png
+[git]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/git.png
+[mongodb]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/mongodb.png
 
 ## Latest activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#15](https://github.com/ElCholoGamer/brazil-bot/pull/15) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
 2. 🎉 Merged PR [#26](https://github.com/ElCholoGamer/elchologamer.github.io/pull/26) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
 3. 🎉 Merged PR [#27](https://github.com/ElCholoGamer/elchologamer.github.io/pull/27) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
