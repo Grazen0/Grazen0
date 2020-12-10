@@ -1,0 +1,12 @@
+{
+	"name": "github-profile",
+	"version": "1.0.0",
+	"repository": "https://github.com/ElCholoGamer/ElCholoGamer.git",
+	"author": "ElCholoGamer <josedanielgrayson@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"chalk": "^4.1.0",
+		"sharp": "^0.26.3"
+	}
+}
