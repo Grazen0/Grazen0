@@ -25,9 +25,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ShrimpyStuff/Math_Help_Bot/pull/1) in [ShrimpyStuff/Math_Help_Bot](https://github.com/ShrimpyStuff/Math_Help_Bot)
-2. 🎉 Merged PR [#55](https://github.com/ElCholoGamer/josuke-dashboard/pull/55) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
-3. 🎉 Merged PR [#21](https://github.com/ElCholoGamer/fakebook/pull/21) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
-4. 🎉 Merged PR [#26](https://github.com/ElCholoGamer/josuke/pull/26) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
-5. 🎉 Merged PR [#57](https://github.com/ElCholoGamer/josuke-dashboard/pull/57) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
+1. 🎉 Merged PR [#26](https://github.com/ElCholoGamer/elchologamer.github.io/pull/26) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+2. 🎉 Merged PR [#27](https://github.com/ElCholoGamer/elchologamer.github.io/pull/27) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+3. 🎉 Merged PR [#28](https://github.com/ElCholoGamer/elchologamer.github.io/pull/28) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+4. 🎉 Merged PR [#29](https://github.com/ElCholoGamer/elchologamer.github.io/pull/29) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+5. 🎉 Merged PR [#30](https://github.com/ElCholoGamer/elchologamer.github.io/pull/30) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
 <!--END_SECTION:activity-->
