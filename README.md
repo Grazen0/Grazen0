@@ -38,9 +38,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/DashCruft/Discord.js-meme/pull/4) in [DashCruft/Discord.js-meme](https://github.com/DashCruft/Discord.js-meme)
-2. 🎉 Merged PR [#31](https://github.com/ElCholoGamer/elchologamer.github.io/pull/31) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-3. 🎉 Merged PR [#32](https://github.com/ElCholoGamer/elchologamer.github.io/pull/32) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-4. 🎉 Merged PR [#33](https://github.com/ElCholoGamer/elchologamer.github.io/pull/33) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-5. 🎉 Merged PR [#34](https://github.com/ElCholoGamer/elchologamer.github.io/pull/34) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+1. 💪 Opened PR [#60](https://github.com/top-gg/Luca/pull/60) in [top-gg/Luca](https://github.com/top-gg/Luca)
+2. 🗣 Commented on [#57](https://github.com/top-gg/Luca/issues/57) in [top-gg/Luca](https://github.com/top-gg/Luca)
+3. 💪 Opened PR [#4](https://github.com/DashCruft/Discord.js-meme/pull/4) in [DashCruft/Discord.js-meme](https://github.com/DashCruft/Discord.js-meme)
+4. 🎉 Merged PR [#31](https://github.com/ElCholoGamer/elchologamer.github.io/pull/31) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+5. 🎉 Merged PR [#32](https://github.com/ElCholoGamer/elchologamer.github.io/pull/32) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
 <!--END_SECTION:activity-->
