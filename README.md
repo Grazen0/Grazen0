@@ -4,8 +4,10 @@
 ![React](https://img.shields.io/badge/React-good-blue)
 ![Procrastinating](https://img.shields.io/badge/Procrastinating-always-red)
 
-I code decent Discord bots, and I'm practicing web apps using the MERN stack. Big React fan too.
+So I code decent Discord bots, and I'm practicing web apps using the MERN stack. Big React fan too.
 Also making some Minecraft plugins every now and then, check [this one][userlogin] out!
+
+(By the time you read this I'm probably watching anime or something)
 
 ## Technologies
 
