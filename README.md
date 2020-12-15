@@ -40,9 +40,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#32](https://github.com/ElCholoGamer/josuke/pull/32) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
-2. 🎉 Merged PR [#34](https://github.com/ElCholoGamer/josuke/pull/34) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
-3. 🎉 Merged PR [#33](https://github.com/ElCholoGamer/josuke/pull/33) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
-4. 🎉 Merged PR [#74](https://github.com/ElCholoGamer/josuke-dashboard/pull/74) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
-5. 🎉 Merged PR [#16](https://github.com/ElCholoGamer/brazil-bot/pull/16) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. ❌ Closed PR [#60](https://github.com/top-gg/Luca/pull/60) in [top-gg/Luca](https://github.com/top-gg/Luca)
+2. 🎉 Merged PR [#32](https://github.com/ElCholoGamer/josuke/pull/32) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
+3. 🎉 Merged PR [#34](https://github.com/ElCholoGamer/josuke/pull/34) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
+4. 🎉 Merged PR [#33](https://github.com/ElCholoGamer/josuke/pull/33) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
+5. 🎉 Merged PR [#74](https://github.com/ElCholoGamer/josuke-dashboard/pull/74) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
 <!--END_SECTION:activity-->
