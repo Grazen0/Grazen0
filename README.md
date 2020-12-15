@@ -40,9 +40,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/Million900o/jason.db/issues/4) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-2. 💪 Opened PR [#6](https://github.com/Million900o/jason.db/pull/6) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
+1. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/jason.db/pull/1) in [ElCholoGamer/jason.db](https://github.com/ElCholoGamer/jason.db)
+2. 💪 Opened PR [#1](https://github.com/ElCholoGamer/jason.db/pull/1) in [ElCholoGamer/jason.db](https://github.com/ElCholoGamer/jason.db)
 3. 🗣 Commented on [#4](https://github.com/Million900o/jason.db/issues/4) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-4. ❗️ Opened issue [#4](https://github.com/Million900o/jason.db/issues/4) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-5. ❌ Closed PR [#60](https://github.com/top-gg/Luca/pull/60) in [top-gg/Luca](https://github.com/top-gg/Luca)
+4. 💪 Opened PR [#6](https://github.com/Million900o/jason.db/pull/6) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
+5. 🗣 Commented on [#4](https://github.com/Million900o/jason.db/issues/4) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
 <!--END_SECTION:activity-->
