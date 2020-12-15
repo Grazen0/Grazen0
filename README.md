@@ -40,9 +40,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/Million900o/jason.db/issues/8) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-2. 💪 Opened PR [#8](https://github.com/Million900o/jason.db/pull/8) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-3. 🎉 Merged PR [#18](https://github.com/ElCholoGamer/brazil-bot/pull/18) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-4. 🎉 Merged PR [#17](https://github.com/ElCholoGamer/brazil-bot/pull/17) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-5. 🎉 Merged PR [#41](https://github.com/ElCholoGamer/fakebook/pull/41) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+1. 💪 Opened PR [#9](https://github.com/Million900o/jason.db/pull/9) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
+2. 🗣 Commented on [#8](https://github.com/Million900o/jason.db/issues/8) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
+3. 💪 Opened PR [#8](https://github.com/Million900o/jason.db/pull/8) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
+4. 🎉 Merged PR [#18](https://github.com/ElCholoGamer/brazil-bot/pull/18) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+5. 🎉 Merged PR [#17](https://github.com/ElCholoGamer/brazil-bot/pull/17) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
 <!--END_SECTION:activity-->
