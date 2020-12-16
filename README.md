@@ -40,9 +40,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#10](https://github.com/Million900o/jason.db/pull/10) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-2. 💪 Opened PR [#9](https://github.com/Million900o/jason.db/pull/9) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-3. 🗣 Commented on [#8](https://github.com/Million900o/jason.db/issues/8) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-4. 💪 Opened PR [#8](https://github.com/Million900o/jason.db/pull/8) in [Million900o/jason.db](https://github.com/Million900o/jason.db)
-5. 🎉 Merged PR [#18](https://github.com/ElCholoGamer/brazil-bot/pull/18) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. 🎉 Merged PR [#38](https://github.com/ElCholoGamer/josuke/pull/38) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
+2. 🎉 Merged PR [#84](https://github.com/ElCholoGamer/josuke-dashboard/pull/84) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
+3. 🎉 Merged PR [#83](https://github.com/ElCholoGamer/josuke-dashboard/pull/83) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
+4. 🎉 Merged PR [#85](https://github.com/ElCholoGamer/josuke-dashboard/pull/85) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
+5. 🎉 Merged PR [#86](https://github.com/ElCholoGamer/josuke-dashboard/pull/86) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
 <!--END_SECTION:activity-->
