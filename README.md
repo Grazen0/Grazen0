@@ -40,9 +40,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#88](https://github.com/ElCholoGamer/josuke-dashboard/pull/88) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
-2. 🎉 Merged PR [#50](https://github.com/ElCholoGamer/fakebook/pull/50) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
-3. 💪 Opened PR [#47](https://github.com/ourcord/ourcord/pull/47) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-4. 🎉 Merged PR [#87](https://github.com/ElCholoGamer/josuke-dashboard/pull/87) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
-5. 🎉 Merged PR [#49](https://github.com/ElCholoGamer/fakebook/pull/49) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+1. 💪 Opened PR [#51](https://github.com/ourcord/ourcord/pull/51) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+2. 🎉 Merged PR [#88](https://github.com/ElCholoGamer/josuke-dashboard/pull/88) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
+3. 🎉 Merged PR [#50](https://github.com/ElCholoGamer/fakebook/pull/50) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+4. 💪 Opened PR [#47](https://github.com/ourcord/ourcord/pull/47) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+5. 🎉 Merged PR [#87](https://github.com/ElCholoGamer/josuke-dashboard/pull/87) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
 <!--END_SECTION:activity-->
