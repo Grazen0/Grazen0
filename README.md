@@ -25,16 +25,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElCholoGamer&theme=tokyonight)
 
-[userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
-[javascript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/javascript.png
-[typescript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/typescript.png
-[java]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/java.png
-[node]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/node.png
-[react]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/react.png
-[webpack]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/webpack.png
-[html]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/html.png
-[git]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/git.png
-[mongodb]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/mongodb.png
+## Most used languages
+
+![GitHub metrics](https://metrics.lecoq.io/ElCholoGamer?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1)
 
 ## Latest activity
 
@@ -46,3 +39,14 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 4. 🎉 Merged PR [#92](https://github.com/ElCholoGamer/josuke-dashboard/pull/92) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
 5. 🎉 Merged PR [#95](https://github.com/ElCholoGamer/josuke-dashboard/pull/95) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
 <!--END_SECTION:activity-->
+
+[userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
+[javascript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/javascript.png
+[typescript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/typescript.png
+[java]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/java.png
+[node]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/node.png
+[react]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/react.png
+[webpack]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/webpack.png
+[html]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/html.png
+[git]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/git.png
+[mongodb]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/mongodb.png
