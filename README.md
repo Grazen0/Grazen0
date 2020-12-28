@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/ShrimpyStuff/Webhook-Server/pull/2) in [ShrimpyStuff/Webhook-Server](https://github.com/ShrimpyStuff/Webhook-Server)
-2. 💪 Opened PR [#1](https://github.com/ShrimpyStuff/Webhook-Server/pull/1) in [ShrimpyStuff/Webhook-Server](https://github.com/ShrimpyStuff/Webhook-Server)
-3. 🎉 Merged PR [#47](https://github.com/ElCholoGamer/elchologamer.github.io/pull/47) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-4. 🎉 Merged PR [#48](https://github.com/ElCholoGamer/elchologamer.github.io/pull/48) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-5. 🎉 Merged PR [#43](https://github.com/ElCholoGamer/josuke/pull/43) in [ElCholoGamer/josuke](https://github.com/ElCholoGamer/josuke)
+1. 🎉 Merged PR [#59](https://github.com/ElCholoGamer/fakebook/pull/59) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+2. 🎉 Merged PR [#96](https://github.com/ElCholoGamer/josuke-dashboard/pull/96) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
+3. 💪 Opened PR [#2](https://github.com/ShrimpyStuff/Webhook-Server/pull/2) in [ShrimpyStuff/Webhook-Server](https://github.com/ShrimpyStuff/Webhook-Server)
+4. 💪 Opened PR [#1](https://github.com/ShrimpyStuff/Webhook-Server/pull/1) in [ShrimpyStuff/Webhook-Server](https://github.com/ShrimpyStuff/Webhook-Server)
+5. 🎉 Merged PR [#47](https://github.com/ElCholoGamer/elchologamer.github.io/pull/47) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
