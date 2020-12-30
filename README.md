@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#49](https://github.com/ElCholoGamer/elchologamer.github.io/pull/49) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-2. 🎉 Merged PR [#50](https://github.com/ElCholoGamer/elchologamer.github.io/pull/50) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-3. 🎉 Merged PR [#60](https://github.com/ElCholoGamer/fakebook/pull/60) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
-4. 🎉 Merged PR [#62](https://github.com/ElCholoGamer/fakebook/pull/62) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
-5. 🎉 Merged PR [#63](https://github.com/ElCholoGamer/fakebook/pull/63) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+1. 🎉 Merged PR [#65](https://github.com/ElCholoGamer/fakebook/pull/65) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+2. 🎉 Merged PR [#64](https://github.com/ElCholoGamer/fakebook/pull/64) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+3. 🎉 Merged PR [#66](https://github.com/ElCholoGamer/fakebook/pull/66) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+4. 🎉 Merged PR [#101](https://github.com/ElCholoGamer/josuke-dashboard/pull/101) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
+5. 🎉 Merged PR [#67](https://github.com/ElCholoGamer/fakebook/pull/67) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
