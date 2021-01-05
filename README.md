@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#61](https://github.com/ElCholoGamer/fakebook/pull/61) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
-2. 🎉 Merged PR [#110](https://github.com/ElCholoGamer/josuke-dashboard/pull/110) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
-3. 🎉 Merged PR [#109](https://github.com/ElCholoGamer/josuke-dashboard/pull/109) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
-4. 🎉 Merged PR [#111](https://github.com/ElCholoGamer/josuke-dashboard/pull/111) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
-5. 🎉 Merged PR [#25](https://github.com/ElCholoGamer/brazil-bot/pull/25) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. 🎉 Merged PR [#26](https://github.com/ElCholoGamer/brazil-bot/pull/26) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+2. 🎉 Merged PR [#27](https://github.com/ElCholoGamer/brazil-bot/pull/27) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+3. ❌ Closed PR [#61](https://github.com/ElCholoGamer/fakebook/pull/61) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+4. 🎉 Merged PR [#110](https://github.com/ElCholoGamer/josuke-dashboard/pull/110) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
+5. 🎉 Merged PR [#109](https://github.com/ElCholoGamer/josuke-dashboard/pull/109) in [ElCholoGamer/josuke-dashboard](https://github.com/ElCholoGamer/josuke-dashboard)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
