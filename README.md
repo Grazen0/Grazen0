@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5225](https://github.com/discordjs/discord.js/pull/5225) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. 🎉 Merged PR [#30](https://github.com/ElCholoGamer/brazil-bot/pull/30) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-3. ❌ Closed PR [#42](https://github.com/top-gg/node-sdk/pull/42) in [top-gg/node-sdk](https://github.com/top-gg/node-sdk)
-4. 🗣 Commented on [#42](https://github.com/top-gg/node-sdk/issues/42) in [top-gg/node-sdk](https://github.com/top-gg/node-sdk)
-5. 🎉 Merged PR [#56](https://github.com/ElCholoGamer/elchologamer.github.io/pull/56) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+1. ❌ Closed PR [#34](https://github.com/ElCholoGamer/brazil-bot/pull/34) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+2. 💪 Opened PR [#5225](https://github.com/discordjs/discord.js/pull/5225) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. 🎉 Merged PR [#30](https://github.com/ElCholoGamer/brazil-bot/pull/30) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+4. ❌ Closed PR [#42](https://github.com/top-gg/node-sdk/pull/42) in [top-gg/node-sdk](https://github.com/top-gg/node-sdk)
+5. 🗣 Commented on [#42](https://github.com/top-gg/node-sdk/issues/42) in [top-gg/node-sdk](https://github.com/top-gg/node-sdk)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
