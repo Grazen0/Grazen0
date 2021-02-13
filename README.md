@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#87](https://github.com/ElCholoGamer/elchologamer.github.io/pull/87) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-2. 🎉 Merged PR [#74](https://github.com/ElCholoGamer/elchologamer.github.io/pull/74) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-3. 🎉 Merged PR [#90](https://github.com/ElCholoGamer/elchologamer.github.io/pull/90) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-4. ❌ Closed PR [#1](https://github.com/kubajss/uwu/pull/1) in [kubajss/uwu](https://github.com/kubajss/uwu)
-5. 🗣 Commented on [#1](https://github.com/kubajss/uwu/issues/1) in [kubajss/uwu](https://github.com/kubajss/uwu)
+1. 🗣 Commented on [#461](https://github.com/games647/FastLogin/issues/461) in [games647/FastLogin](https://github.com/games647/FastLogin)
+2. 🎉 Merged PR [#87](https://github.com/ElCholoGamer/elchologamer.github.io/pull/87) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+3. 🎉 Merged PR [#74](https://github.com/ElCholoGamer/elchologamer.github.io/pull/74) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+4. 🎉 Merged PR [#90](https://github.com/ElCholoGamer/elchologamer.github.io/pull/90) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+5. ❌ Closed PR [#1](https://github.com/kubajss/uwu/pull/1) in [kubajss/uwu](https://github.com/kubajss/uwu)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
