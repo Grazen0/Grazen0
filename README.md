@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#76](https://github.com/ElCholoGamer/elchologamer.github.io/pull/76) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-2. 🎉 Merged PR [#83](https://github.com/ElCholoGamer/elchologamer.github.io/pull/83) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-3. 🎉 Merged PR [#85](https://github.com/ElCholoGamer/elchologamer.github.io/pull/85) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-4. 🎉 Merged PR [#89](https://github.com/ElCholoGamer/elchologamer.github.io/pull/89) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-5. 🎉 Merged PR [#84](https://github.com/ElCholoGamer/elchologamer.github.io/pull/84) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+1. ❗️ Opened issue [#4](https://github.com/dbl-bad-code/bad-code/issues/4) in [dbl-bad-code/bad-code](https://github.com/dbl-bad-code/bad-code)
+2. 🎉 Merged PR [#76](https://github.com/ElCholoGamer/elchologamer.github.io/pull/76) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+3. 🎉 Merged PR [#83](https://github.com/ElCholoGamer/elchologamer.github.io/pull/83) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+4. 🎉 Merged PR [#85](https://github.com/ElCholoGamer/elchologamer.github.io/pull/85) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+5. 🎉 Merged PR [#89](https://github.com/ElCholoGamer/elchologamer.github.io/pull/89) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
