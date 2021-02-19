@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#100](https://github.com/ElCholoGamer/elchologamer.github.io/pull/100) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-2. 🎉 Merged PR [#98](https://github.com/ElCholoGamer/elchologamer.github.io/pull/98) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-3. 🎉 Merged PR [#103](https://github.com/ElCholoGamer/elchologamer.github.io/pull/103) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-4. 🎉 Merged PR [#102](https://github.com/ElCholoGamer/elchologamer.github.io/pull/102) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-5. 🎉 Merged PR [#94](https://github.com/ElCholoGamer/elchologamer.github.io/pull/94) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+1. ❗️ Closed issue [#13](https://github.com/ElCholoGamer/userlogin/issues/13) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+2. 🗣 Commented on [#13](https://github.com/ElCholoGamer/userlogin/issues/13) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+3. 💪 Opened PR [#16](https://github.com/ElCholoGamer/userlogin/pull/16) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+4. 🎉 Merged PR [#100](https://github.com/ElCholoGamer/elchologamer.github.io/pull/100) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+5. 🎉 Merged PR [#98](https://github.com/ElCholoGamer/elchologamer.github.io/pull/98) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
