@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/Million900o/coconut-malld/issues/1) in [Million900o/coconut-malld](https://github.com/Million900o/coconut-malld)
-2. 🎉 Merged PR [#16](https://github.com/ElCholoGamer/userlogin/pull/16) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-3. ❗️ Closed issue [#13](https://github.com/ElCholoGamer/userlogin/issues/13) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-4. 🗣 Commented on [#13](https://github.com/ElCholoGamer/userlogin/issues/13) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-5. 💪 Opened PR [#16](https://github.com/ElCholoGamer/userlogin/pull/16) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+1. 🎉 Merged PR [#50](https://github.com/ElCholoGamer/brazil-bot/pull/50) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+2. ❌ Closed PR [#104](https://github.com/ElCholoGamer/elchologamer.github.io/pull/104) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+3. ❌ Closed PR [#105](https://github.com/ElCholoGamer/elchologamer.github.io/pull/105) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+4. ❌ Closed PR [#106](https://github.com/ElCholoGamer/elchologamer.github.io/pull/106) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+5. ❌ Closed PR [#107](https://github.com/ElCholoGamer/elchologamer.github.io/pull/107) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
