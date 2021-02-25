@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#51](https://github.com/ElCholoGamer/brazil-bot/pull/51) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-2. 🗣 Commented on [#5](https://github.com/dbl-bad-code/bad-code/issues/5) in [dbl-bad-code/bad-code](https://github.com/dbl-bad-code/bad-code)
-3. 🎉 Merged PR [#50](https://github.com/ElCholoGamer/brazil-bot/pull/50) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-4. ❌ Closed PR [#104](https://github.com/ElCholoGamer/elchologamer.github.io/pull/104) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
-5. ❌ Closed PR [#105](https://github.com/ElCholoGamer/elchologamer.github.io/pull/105) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+1. 🎉 Merged PR [#52](https://github.com/ElCholoGamer/brazil-bot/pull/52) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+2. 🎉 Merged PR [#51](https://github.com/ElCholoGamer/brazil-bot/pull/51) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+3. 🗣 Commented on [#5](https://github.com/dbl-bad-code/bad-code/issues/5) in [dbl-bad-code/bad-code](https://github.com/dbl-bad-code/bad-code)
+4. 🎉 Merged PR [#50](https://github.com/ElCholoGamer/brazil-bot/pull/50) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+5. ❌ Closed PR [#104](https://github.com/ElCholoGamer/elchologamer.github.io/pull/104) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
