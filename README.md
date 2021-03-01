@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#53](https://github.com/ElCholoGamer/brazil-bot/pull/53) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-2. 🎉 Merged PR [#52](https://github.com/ElCholoGamer/brazil-bot/pull/52) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-3. 🎉 Merged PR [#51](https://github.com/ElCholoGamer/brazil-bot/pull/51) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-4. 🗣 Commented on [#5](https://github.com/dbl-bad-code/bad-code/issues/5) in [dbl-bad-code/bad-code](https://github.com/dbl-bad-code/bad-code)
-5. 🎉 Merged PR [#50](https://github.com/ElCholoGamer/brazil-bot/pull/50) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. 💪 Opened PR [#20](https://github.com/PrismarineJS/prismarine-web-client/pull/20) in [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client)
+2. 🎉 Merged PR [#53](https://github.com/ElCholoGamer/brazil-bot/pull/53) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+3. 🎉 Merged PR [#52](https://github.com/ElCholoGamer/brazil-bot/pull/52) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+4. 🎉 Merged PR [#51](https://github.com/ElCholoGamer/brazil-bot/pull/51) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+5. 🗣 Commented on [#5](https://github.com/dbl-bad-code/bad-code/issues/5) in [dbl-bad-code/bad-code](https://github.com/dbl-bad-code/bad-code)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
