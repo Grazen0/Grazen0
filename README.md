@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#54](https://github.com/ElCholoGamer/brazil-bot/pull/54) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-2. 🗣 Commented on [#20](https://github.com/PrismarineJS/prismarine-web-client/issues/20) in [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client)
-3. 💪 Opened PR [#20](https://github.com/PrismarineJS/prismarine-web-client/pull/20) in [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client)
-4. 🎉 Merged PR [#53](https://github.com/ElCholoGamer/brazil-bot/pull/53) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-5. 🎉 Merged PR [#52](https://github.com/ElCholoGamer/brazil-bot/pull/52) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. 🎉 Merged PR [#56](https://github.com/ElCholoGamer/brazil-bot/pull/56) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+2. 🎉 Merged PR [#55](https://github.com/ElCholoGamer/brazil-bot/pull/55) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+3. 🗣 Commented on [#1](https://github.com/Million900o/coconut-malld/issues/1) in [Million900o/coconut-malld](https://github.com/Million900o/coconut-malld)
+4. 🎉 Merged PR [#54](https://github.com/ElCholoGamer/brazil-bot/pull/54) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+5. 🗣 Commented on [#20](https://github.com/PrismarineJS/prismarine-web-client/issues/20) in [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
