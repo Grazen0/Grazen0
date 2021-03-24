@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#68](https://github.com/ElCholoGamer/brazil-bot/pull/68) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-2. 🎉 Merged PR [#69](https://github.com/ElCholoGamer/brazil-bot/pull/69) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-3. ❗️ Closed issue [#67](https://github.com/ElCholoGamer/brazil-bot/issues/67) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-4. 🎉 Merged PR [#64](https://github.com/ElCholoGamer/brazil-bot/pull/64) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-5. 🎉 Merged PR [#65](https://github.com/ElCholoGamer/brazil-bot/pull/65) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. 🎉 Merged PR [#62](https://github.com/ElCholoGamer/brazil-bot/pull/62) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+2. 🎉 Merged PR [#68](https://github.com/ElCholoGamer/brazil-bot/pull/68) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+3. 🎉 Merged PR [#69](https://github.com/ElCholoGamer/brazil-bot/pull/69) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+4. ❗️ Closed issue [#67](https://github.com/ElCholoGamer/brazil-bot/issues/67) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+5. 🎉 Merged PR [#64](https://github.com/ElCholoGamer/brazil-bot/pull/64) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
