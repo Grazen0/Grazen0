@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#93](https://github.com/ElCholoGamer/brazil-bot/pull/93) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-2. 🎉 Merged PR [#94](https://github.com/ElCholoGamer/brazil-bot/pull/94) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-3. 🎉 Merged PR [#91](https://github.com/ElCholoGamer/brazil-bot/pull/91) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-4. 🎉 Merged PR [#92](https://github.com/ElCholoGamer/brazil-bot/pull/92) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-5. 🎉 Merged PR [#90](https://github.com/ElCholoGamer/brazil-bot/pull/90) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. 🎉 Merged PR [#77](https://github.com/ElCholoGamer/fakebook/pull/77) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+2. 🎉 Merged PR [#78](https://github.com/ElCholoGamer/fakebook/pull/78) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+3. 🎉 Merged PR [#4](https://github.com/ElCholoGamer/dankcord/pull/4) in [ElCholoGamer/dankcord](https://github.com/ElCholoGamer/dankcord)
+4. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/canvas-game/pull/1) in [ElCholoGamer/canvas-game](https://github.com/ElCholoGamer/canvas-game)
+5. 🎉 Merged PR [#3](https://github.com/ElCholoGamer/next.js-blog/pull/3) in [ElCholoGamer/next.js-blog](https://github.com/ElCholoGamer/next.js-blog)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
