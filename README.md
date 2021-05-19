@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/ElCholoGamer/undertale-dialogues/pull/9) in [ElCholoGamer/undertale-dialogues](https://github.com/ElCholoGamer/undertale-dialogues)
-2. 🎉 Merged PR [#95](https://github.com/ElCholoGamer/brazil-bot/pull/95) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-3. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/advent-of-code-cli/pull/1) in [ElCholoGamer/advent-of-code-cli](https://github.com/ElCholoGamer/advent-of-code-cli)
-4. 🎉 Merged PR [#2](https://github.com/ElCholoGamer/advent-of-code-cli/pull/2) in [ElCholoGamer/advent-of-code-cli](https://github.com/ElCholoGamer/advent-of-code-cli)
-5. 🎉 Merged PR [#2](https://github.com/ElCholoGamer/coolskeleton95/pull/2) in [ElCholoGamer/coolskeleton95](https://github.com/ElCholoGamer/coolskeleton95)
+1. 🎉 Merged PR [#97](https://github.com/ElCholoGamer/brazil-bot/pull/97) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+2. 🎉 Merged PR [#98](https://github.com/ElCholoGamer/brazil-bot/pull/98) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+3. 🎉 Merged PR [#9](https://github.com/ElCholoGamer/undertale-dialogues/pull/9) in [ElCholoGamer/undertale-dialogues](https://github.com/ElCholoGamer/undertale-dialogues)
+4. 🎉 Merged PR [#95](https://github.com/ElCholoGamer/brazil-bot/pull/95) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+5. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/advent-of-code-cli/pull/1) in [ElCholoGamer/advent-of-code-cli](https://github.com/ElCholoGamer/advent-of-code-cli)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
