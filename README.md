@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#101](https://github.com/ElCholoGamer/brazil-bot/pull/101) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-2. 🎉 Merged PR [#102](https://github.com/ElCholoGamer/brazil-bot/pull/102) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-3. 🎉 Merged PR [#99](https://github.com/ElCholoGamer/brazil-bot/pull/99) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-4. 🎉 Merged PR [#100](https://github.com/ElCholoGamer/brazil-bot/pull/100) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-5. 🎉 Merged PR [#97](https://github.com/ElCholoGamer/brazil-bot/pull/97) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. 🎉 Merged PR [#116](https://github.com/ElCholoGamer/josuke.tk/pull/116) in [ElCholoGamer/josuke.tk](https://github.com/ElCholoGamer/josuke.tk)
+2. 🎉 Merged PR [#114](https://github.com/ElCholoGamer/elchologamer.github.io/pull/114) in [ElCholoGamer/elchologamer.github.io](https://github.com/ElCholoGamer/elchologamer.github.io)
+3. 🎉 Merged PR [#81](https://github.com/ElCholoGamer/fakebook/pull/81) in [ElCholoGamer/fakebook](https://github.com/ElCholoGamer/fakebook)
+4. 🎉 Merged PR [#38](https://github.com/ElCholoGamer/todo-list-on-steroids/pull/38) in [ElCholoGamer/todo-list-on-steroids](https://github.com/ElCholoGamer/todo-list-on-steroids)
+5. 🎉 Merged PR [#5](https://github.com/ElCholoGamer/dankcord/pull/5) in [ElCholoGamer/dankcord](https://github.com/ElCholoGamer/dankcord)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
