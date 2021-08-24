@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/ElCholoGamer/coolskeleton95/pull/5) in [ElCholoGamer/coolskeleton95](https://github.com/ElCholoGamer/coolskeleton95)
-2. ❌ Closed PR [#129](https://github.com/ElCholoGamer/brazil-bot/pull/129) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-3. 🎉 Merged PR [#125](https://github.com/ElCholoGamer/brazil-bot/pull/125) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-4. 🎉 Merged PR [#136](https://github.com/ElCholoGamer/brazil-bot/pull/136) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
-5. 🎉 Merged PR [#126](https://github.com/ElCholoGamer/brazil-bot/pull/126) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+1. ❗️ Opened issue [#1](https://github.com/Million900o/berry-is.gay/issues/1) in [Million900o/berry-is.gay](https://github.com/Million900o/berry-is.gay)
+2. 🎉 Merged PR [#5](https://github.com/ElCholoGamer/coolskeleton95/pull/5) in [ElCholoGamer/coolskeleton95](https://github.com/ElCholoGamer/coolskeleton95)
+3. ❌ Closed PR [#129](https://github.com/ElCholoGamer/brazil-bot/pull/129) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+4. 🎉 Merged PR [#125](https://github.com/ElCholoGamer/brazil-bot/pull/125) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
+5. 🎉 Merged PR [#136](https://github.com/ElCholoGamer/brazil-bot/pull/136) in [ElCholoGamer/brazil-bot](https://github.com/ElCholoGamer/brazil-bot)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
