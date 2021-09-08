@@ -33,11 +33,11 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/ElCholoGamer/terraria-mod/issues/1) in [ElCholoGamer/terraria-mod](https://github.com/ElCholoGamer/terraria-mod)
-2. 🗣 Commented on [#1](https://github.com/ElCholoGamer/terraria-mod/issues/1) in [ElCholoGamer/terraria-mod](https://github.com/ElCholoGamer/terraria-mod)
-3. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/ElCholoGamer/pull/1) in [ElCholoGamer/ElCholoGamer](https://github.com/ElCholoGamer/ElCholoGamer)
-4. 🗣 Commented on [#1](https://github.com/Million900o/berry-is.gay/issues/1) in [Million900o/berry-is.gay](https://github.com/Million900o/berry-is.gay)
-5. ❗️ Opened issue [#1](https://github.com/Million900o/berry-is.gay/issues/1) in [Million900o/berry-is.gay](https://github.com/Million900o/berry-is.gay)
+1. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/video-ascii/pull/1) in [ElCholoGamer/video-ascii](https://github.com/ElCholoGamer/video-ascii)
+2. ❗️ Closed issue [#1](https://github.com/ElCholoGamer/terraria-mod/issues/1) in [ElCholoGamer/terraria-mod](https://github.com/ElCholoGamer/terraria-mod)
+3. 🗣 Commented on [#1](https://github.com/ElCholoGamer/terraria-mod/issues/1) in [ElCholoGamer/terraria-mod](https://github.com/ElCholoGamer/terraria-mod)
+4. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/ElCholoGamer/pull/1) in [ElCholoGamer/ElCholoGamer](https://github.com/ElCholoGamer/ElCholoGamer)
+5. 🗣 Commented on [#1](https://github.com/Million900o/berry-is.gay/issues/1) in [Million900o/berry-is.gay](https://github.com/Million900o/berry-is.gay)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
