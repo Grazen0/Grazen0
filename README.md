@@ -1,15 +1,12 @@
 # Hello there
 
-![Epicness](https://img.shields.io/badge/Epicness-69%25-brightgreen)
-![React](https://img.shields.io/badge/React-good-blue)
-![Procrastinating](https://img.shields.io/badge/Procrastinating-always-red)
+The god of procrastinating schoolwork.
 
-So I code decent Discord bots, and I'm practicing web apps using the MERN stack. Big React fan too.
-Also making some Minecraft plugins every now and then, check [this one][userlogin] out!
+My main languages are TypeScript and Java, but I also got decent experience with C#. Currently making Terraria mods and Minecraft plugins, also got some decent web apps going on. Used to make Discord bots too.
 
-(By the time you read this I'm probably watching anime or something)
+Star Wars fan, anime enthusiast, and fencer too.
 
-## Technologies
+## Cool stuff I use
 
 ![JavaScript][javascript]
 ![TypeScript][typescript]
@@ -21,12 +18,9 @@ Also making some Minecraft plugins every now and then, check [this one][userlogi
 ![MongoDB][mongodb]
 ![Git][git]
 
-## GitHub stats
+## Dope stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElCholoGamer&theme=tokyonight)
-
-## Most used languages
-
 ![GitHub metrics](https://metrics.lecoq.io/ElCholoGamer?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1)
 
 ## Latest activity
