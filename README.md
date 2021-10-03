@@ -28,11 +28,11 @@ Star Wars fan, anime enthusiast, and fencer too.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#19](https://github.com/ElCholoGamer/userlogin/issues/19) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-2. 🗣 Commented on [#19](https://github.com/ElCholoGamer/userlogin/issues/19) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-3. 🗣 Commented on [#19](https://github.com/ElCholoGamer/userlogin/issues/19) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-4. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/video-ascii/pull/1) in [ElCholoGamer/video-ascii](https://github.com/ElCholoGamer/video-ascii)
-5. ❗️ Closed issue [#1](https://github.com/ElCholoGamer/terraria-mod/issues/1) in [ElCholoGamer/terraria-mod](https://github.com/ElCholoGamer/terraria-mod)
+1. ❗️ Closed issue [#20](https://github.com/ElCholoGamer/userlogin/issues/20) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+2. 🗣 Commented on [#20](https://github.com/ElCholoGamer/userlogin/issues/20) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+3. ❗️ Closed issue [#19](https://github.com/ElCholoGamer/userlogin/issues/19) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+4. 🗣 Commented on [#19](https://github.com/ElCholoGamer/userlogin/issues/19) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+5. 🗣 Commented on [#19](https://github.com/ElCholoGamer/userlogin/issues/19) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
