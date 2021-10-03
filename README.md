@@ -21,6 +21,7 @@ Star Wars fan, anime enthusiast, and fencer too.
 ## Dope stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElCholoGamer&theme=tokyonight)
+<br />
 ![GitHub metrics](https://metrics.lecoq.io/ElCholoGamer?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1)
 
 ## Latest activity
