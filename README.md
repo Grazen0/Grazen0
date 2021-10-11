@@ -28,11 +28,11 @@ Star Wars fan, anime enthusiast, and fencer too.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#22](https://github.com/ElCholoGamer/userlogin/issues/22) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-2. ❗️ Closed issue [#23](https://github.com/ElCholoGamer/userlogin/issues/23) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-3. 🗣 Commented on [#23](https://github.com/ElCholoGamer/userlogin/issues/23) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-4. 🗣 Commented on [#22](https://github.com/ElCholoGamer/userlogin/issues/22) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-5. 🗣 Commented on [#23](https://github.com/ElCholoGamer/userlogin/issues/23) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+1. ❗️ Closed issue [#22](https://github.com/ElCholoGamer/userlogin/issues/22) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+2. 🗣 Commented on [#22](https://github.com/ElCholoGamer/userlogin/issues/22) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+3. 🎉 Merged PR [#24](https://github.com/ElCholoGamer/userlogin/pull/24) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+4. 💪 Opened PR [#24](https://github.com/ElCholoGamer/userlogin/pull/24) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+5. 🗣 Commented on [#22](https://github.com/ElCholoGamer/userlogin/issues/22) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
