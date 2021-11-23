@@ -28,10 +28,10 @@ Star Wars fan, anime enthusiast, and fencer too.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#29](https://github.com/ElCholoGamer/userlogin/pull/29) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-2. 💪 Opened PR [#29](https://github.com/ElCholoGamer/userlogin/pull/29) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-3. 🗣 Commented on [#27](https://github.com/ElCholoGamer/userlogin/issues/27) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-4. 🎉 Merged PR [#27](https://github.com/ElCholoGamer/userlogin/pull/27) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+1. 🎉 Merged PR [#1](https://github.com/RuphaWasi/ruphawasi.github.io/pull/1) in [RuphaWasi/ruphawasi.github.io](https://github.com/RuphaWasi/ruphawasi.github.io)
+2. 💪 Opened PR [#1](https://github.com/RuphaWasi/ruphawasi.github.io/pull/1) in [RuphaWasi/ruphawasi.github.io](https://github.com/RuphaWasi/ruphawasi.github.io)
+3. 🎉 Merged PR [#29](https://github.com/ElCholoGamer/userlogin/pull/29) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+4. 💪 Opened PR [#29](https://github.com/ElCholoGamer/userlogin/pull/29) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
 5. 🗣 Commented on [#27](https://github.com/ElCholoGamer/userlogin/issues/27) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
 <!--END_SECTION:activity-->
 
