@@ -28,11 +28,11 @@ Star Wars fan, anime enthusiast, and fencer too.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#37](https://github.com/ElCholoGamer/userlogin/pull/37) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-2. 💪 Opened PR [#37](https://github.com/ElCholoGamer/userlogin/pull/37) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-3. 🎉 Merged PR [#36](https://github.com/ElCholoGamer/userlogin/pull/36) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-4. 💪 Opened PR [#36](https://github.com/ElCholoGamer/userlogin/pull/36) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-5. ❗️ Closed issue [#35](https://github.com/ElCholoGamer/userlogin/issues/35) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+1. ❗️ Opened issue [#2](https://github.com/ShrimpyStuff/ISU-Multiplayer-Game/issues/2) in [ShrimpyStuff/ISU-Multiplayer-Game](https://github.com/ShrimpyStuff/ISU-Multiplayer-Game)
+2. 🎉 Merged PR [#37](https://github.com/ElCholoGamer/userlogin/pull/37) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+3. 💪 Opened PR [#37](https://github.com/ElCholoGamer/userlogin/pull/37) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+4. 🎉 Merged PR [#36](https://github.com/ElCholoGamer/userlogin/pull/36) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+5. 💪 Opened PR [#36](https://github.com/ElCholoGamer/userlogin/pull/36) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
