@@ -28,11 +28,11 @@ Star Wars fan, anime enthusiast, and fencer too.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9](https://github.com/Ununoctium117/fumosite/issues/9) in [Ununoctium117/fumosite](https://github.com/Ununoctium117/fumosite)
-2. 🎉 Merged PR [#4](https://github.com/ElCholoGamer/bumblenft-generator/pull/4) in [ElCholoGamer/bumblenft-generator](https://github.com/ElCholoGamer/bumblenft-generator)
-3. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/amazing/pull/1) in [ElCholoGamer/amazing](https://github.com/ElCholoGamer/amazing)
-4. ❗️ Closed issue [#38](https://github.com/ElCholoGamer/userlogin/issues/38) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-5. 🗣 Commented on [#38](https://github.com/ElCholoGamer/userlogin/issues/38) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+1. 🎉 Merged PR [#3](https://github.com/ElCholoGamer/advent-of-code/pull/3) in [ElCholoGamer/advent-of-code](https://github.com/ElCholoGamer/advent-of-code)
+2. 🗣 Commented on [#9](https://github.com/Ununoctium117/fumosite/issues/9) in [Ununoctium117/fumosite](https://github.com/Ununoctium117/fumosite)
+3. 🎉 Merged PR [#4](https://github.com/ElCholoGamer/bumblenft-generator/pull/4) in [ElCholoGamer/bumblenft-generator](https://github.com/ElCholoGamer/bumblenft-generator)
+4. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/amazing/pull/1) in [ElCholoGamer/amazing](https://github.com/ElCholoGamer/amazing)
+5. ❗️ Closed issue [#38](https://github.com/ElCholoGamer/userlogin/issues/38) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
 <!--END_SECTION:activity-->
 
 [userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
