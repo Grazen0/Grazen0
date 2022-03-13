@@ -8,7 +8,7 @@ I love using TypeScript, but I'm also decently comfortable using Java or C#. Lea
 
 Also, I got a pretty cool blog where I post random thoughts about programming. Why not [check out out](https://blog.elchologamer.me/)? (Wink)
 
-## Cool Stuff I Use
+## 📚 Cool Stuff I Use
 
 ![JavaScript](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/javascript.png)
 ![TypeScript](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/typescript.png)
@@ -19,11 +19,11 @@ Also, I got a pretty cool blog where I post random thoughts about programming. W
 ![MongoDB](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/mongodb.png)
 ![Git](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/git.png)
 
-## My Most Used Languages 💻
+## 💻 My Most Used Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ElCholoGamer&theme=tokyonight)
 
-## My Latest Activity 📰
+## 📰 My Latest Activity
 
 <!--START_SECTION:activity-->
 
