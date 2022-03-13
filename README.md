@@ -1,30 +1,29 @@
-# Hello there
+# 👋 Hello there
 
-The god of procrastinating schoolwork.
+ElCholoGamer here. Just some 15 year old who likes to code a lot.
 
-My main languages are TypeScript and Java, but I also got decent experience with C#. Currently making Terraria mods and Minecraft plugins, also got some decent web apps going on. Used to make Discord bots too.
+My main focus is web development, but I've also made some other cool stuff, like Discord bots, a [Minecraft Plugin](https://www.spigotmc.org/resources/userlogin.80669/), an [unfinished Terraria mod](https://github.com/ElCholoGamer/GamerClass), and some random CLI programs.
 
-Star Wars fan, anime enthusiast, and fencer too.
+I love using TypeScript, but I'm also decently comfortable using Java or C#. Learning and falling in love with Rust, too 🦀.
 
-## Cool stuff I use
+Also, I got a pretty cool blog where I post random thoughts about programming. Why not [check out out](https://blog.elchologamer.me/)? (Wink)
 
-![JavaScript][javascript]
-![TypeScript][typescript]
-![Node.js][node]
-![Webpack][webpack]
-![React][react]
-![HTML][html]
-![Java][java]
-![MongoDB][mongodb]
-![Git][git]
+## Cool Stuff I Use
 
-## Dope stats
+![JavaScript](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/javascript.png)
+![TypeScript](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/typescript.png)
+![Node.js](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/node.png)
+![Webpack](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/webpack.png)
+![React](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/react.png)
+![Java](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/java.png)
+![MongoDB](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/mongodb.png)
+![Git](https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/git.png)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElCholoGamer&theme=tokyonight)
-<br />
-![GitHub metrics](https://metrics.lecoq.io/ElCholoGamer?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1)
+## My Most Used Languages 💻
 
-## Latest activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ElCholoGamer&theme=tokyonight)
+
+## My Latest Activity 📰
 
 <!--START_SECTION:activity-->
 
@@ -34,14 +33,3 @@ Star Wars fan, anime enthusiast, and fencer too.
 4. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/amazing/pull/1) in [ElCholoGamer/amazing](https://github.com/ElCholoGamer/amazing)
 5. ❗️ Closed issue [#38](https://github.com/ElCholoGamer/userlogin/issues/38) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
 <!--END_SECTION:activity-->
-
-[userlogin]: https://www.spigotmc.org/resources/userlogin.80669/
-[javascript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/javascript.png
-[typescript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/typescript.png
-[java]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/java.png
-[node]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/node.png
-[react]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/react.png
-[webpack]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/webpack.png
-[html]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/html.png
-[git]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/git.png
-[mongodb]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/mongodb.png
