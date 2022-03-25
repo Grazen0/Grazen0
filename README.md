@@ -6,7 +6,7 @@ My main focus is web development, but I've also made some other cool stuff, like
 
 I love using TypeScript, but I'm also decently comfortable using Java or C#. Learning and falling in love with Rust, too 🦀.
 
-Also, I got a pretty cool blog where I post random thoughts about programming. Why not [check out out](https://blog.elchologamer.me/)? (Wink)
+I also got a pretty cool [blog](https://blog.elchologamer.me/)!
 
 ## 📚 Cool Stuff I Use
 
