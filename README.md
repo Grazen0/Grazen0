@@ -27,9 +27,9 @@ I also got a pretty cool [blog](https://blog.elchologamer.me/)!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/ElCholoGamer/blog/issues/1) in [ElCholoGamer/blog](https://github.com/ElCholoGamer/blog)
-2. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
-3. 🎉 Merged PR [#3](https://github.com/ElCholoGamer/advent-of-code/pull/3) in [ElCholoGamer/advent-of-code](https://github.com/ElCholoGamer/advent-of-code)
-4. 🗣 Commented on [#9](https://github.com/Ununoctium117/fumosite/issues/9) in [Ununoctium117/fumosite](https://github.com/Ununoctium117/fumosite)
+1. 🎉 Merged PR [#2](https://github.com/ElCholoGamer/blog/pull/2) in [ElCholoGamer/blog](https://github.com/ElCholoGamer/blog)
+2. 🗣 Commented on [#1](https://github.com/ElCholoGamer/blog/issues/1) in [ElCholoGamer/blog](https://github.com/ElCholoGamer/blog)
+3. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
+4. 🎉 Merged PR [#3](https://github.com/ElCholoGamer/advent-of-code/pull/3) in [ElCholoGamer/advent-of-code](https://github.com/ElCholoGamer/advent-of-code)
 5. 🎉 Merged PR [#4](https://github.com/ElCholoGamer/bumblenft-generator/pull/4) in [ElCholoGamer/bumblenft-generator](https://github.com/ElCholoGamer/bumblenft-generator)
 <!--END_SECTION:activity-->
