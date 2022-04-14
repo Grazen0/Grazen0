@@ -27,9 +27,9 @@ I also got a pretty cool [blog](https://blog.elchologamer.me/)!
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/pac-man/pull/1) in [ElCholoGamer/pac-man](https://github.com/ElCholoGamer/pac-man)
-2. 💪 Opened PR [#1](https://github.com/ElCholoGamer/pac-man/pull/1) in [ElCholoGamer/pac-man](https://github.com/ElCholoGamer/pac-man)
-3. 🎉 Merged PR [#2](https://github.com/ElCholoGamer/blog/pull/2) in [ElCholoGamer/blog](https://github.com/ElCholoGamer/blog)
-4. 🗣 Commented on [#1](https://github.com/ElCholoGamer/blog/issues/1) in [ElCholoGamer/blog](https://github.com/ElCholoGamer/blog)
-5. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
+1. 🎉 Merged PR [#4](https://github.com/ElCholoGamer/blog/pull/4) in [ElCholoGamer/blog](https://github.com/ElCholoGamer/blog)
+2. 💪 Opened PR [#4](https://github.com/ElCholoGamer/blog/pull/4) in [ElCholoGamer/blog](https://github.com/ElCholoGamer/blog)
+3. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/pac-man/pull/1) in [ElCholoGamer/pac-man](https://github.com/ElCholoGamer/pac-man)
+4. 💪 Opened PR [#1](https://github.com/ElCholoGamer/pac-man/pull/1) in [ElCholoGamer/pac-man](https://github.com/ElCholoGamer/pac-man)
+5. 🎉 Merged PR [#2](https://github.com/ElCholoGamer/blog/pull/2) in [ElCholoGamer/blog](https://github.com/ElCholoGamer/blog)
 <!--END_SECTION:activity-->
