@@ -27,9 +27,9 @@ I also got a pretty cool [blog](https://blog.elchologamer.me/)!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#43](https://github.com/ElCholoGamer/userlogin/issues/43) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-2. 🗣 Commented on [#41](https://github.com/ElCholoGamer/userlogin/issues/41) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
-3. 🎉 Merged PR [#4](https://github.com/ElCholoGamer/video-ascii/pull/4) in [ElCholoGamer/video-ascii](https://github.com/ElCholoGamer/video-ascii)
-4. 🎉 Merged PR [#3](https://github.com/ElCholoGamer/video-ascii/pull/3) in [ElCholoGamer/video-ascii](https://github.com/ElCholoGamer/video-ascii)
-5. 🎉 Merged PR [#2](https://github.com/ElCholoGamer/video-ascii/pull/2) in [ElCholoGamer/video-ascii](https://github.com/ElCholoGamer/video-ascii)
+1. 🎉 Merged PR [#1](https://github.com/ElCholoGamer/chip-8/pull/1) in [ElCholoGamer/chip-8](https://github.com/ElCholoGamer/chip-8)
+2. 🗣 Commented on [#43](https://github.com/ElCholoGamer/userlogin/issues/43) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+3. 🗣 Commented on [#41](https://github.com/ElCholoGamer/userlogin/issues/41) in [ElCholoGamer/userlogin](https://github.com/ElCholoGamer/userlogin)
+4. 🎉 Merged PR [#4](https://github.com/ElCholoGamer/video-ascii/pull/4) in [ElCholoGamer/video-ascii](https://github.com/ElCholoGamer/video-ascii)
+5. 🎉 Merged PR [#3](https://github.com/ElCholoGamer/video-ascii/pull/3) in [ElCholoGamer/video-ascii](https://github.com/ElCholoGamer/video-ascii)
 <!--END_SECTION:activity-->
