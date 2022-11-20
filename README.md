@@ -1,6 +1,6 @@
 # 👋 Hello there
 
-ElCholoGamer here. Just some 15 year old who likes to code a lot.
+ElCholoGamer here. Just some 16 year old who likes to code a lot.
 
 My main focus is web development, but I've also made some other cool stuff, like Discord bots, a [Minecraft Plugin](https://www.spigotmc.org/resources/userlogin.80669/), an [unfinished Terraria mod](https://github.com/ElCholoGamer/GamerClass), and some random CLI programs.
 
