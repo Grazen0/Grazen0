@@ -7,6 +7,6 @@
 	"private": true,
 	"dependencies": {
 		"chalk": "^4.1.0",
-		"sharp": "^0.26.3"
+		"sharp": "^0.32.6"
 	}
 }
