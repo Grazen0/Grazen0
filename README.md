@@ -1,6 +1,6 @@
 # 👋 Hello there
 
-ElCholoGamer here. Just some 17 year old who likes to code a lot.
+ElCholoGamer here. Just some 18 year old who likes to code a lot.
 
 Currently studying CS at university.
 
