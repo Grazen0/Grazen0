@@ -1,7 +1,7 @@
 # 👋 Hello there
 
-ElCholoGamer here. Just some 18 year old who likes to code a lot.
+Grazen here. I'm a 18 year human being old who likes to code a lot and is curretly majoring in CS.
 
-Currently studying CS at university.
+I love [NixOS](https://nixos.org/), Rust, One Piece and cats.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Grazen0&theme=transparent)
