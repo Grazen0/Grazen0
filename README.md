@@ -13,4 +13,4 @@ Grazen here. I'm a 19 year human being old who likes to code a lot.
 
 ![GitHub Stats](https://github-readme-stats-beta-two-66.vercel.app/api/top-langs?username=Grazen0&theme=transparent&layout=compact&exclude_repo=GamerClass)
 
-<sup>You know it's based because there's C, Rust and Nix in a single chart.</sup>
+<sup>You know it's based because there's C, Rust and Nix in a single chart (and now Verilog too).</sup>
