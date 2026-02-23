@@ -1,6 +1,6 @@
 # Hello there
 
-Grazen here. I'm a 19 year human being old who likes to code a lot.
+Grazen here. I'm a 19 old year human being who likes to code a lot.
 
 ## Cool Myself Fact's
 
